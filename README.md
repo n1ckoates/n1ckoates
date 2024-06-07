@@ -6,4 +6,4 @@ I'm also a big fan of [internet privacy](https://en.wikipedia.org/wiki/Internet_
 
 
 ```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/n1ckoates/n1ckoates/assets/58091943/0f90c343-e0c1-445f-8384-beb1fb8e3c1c');]{x0000}$}
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.15; background: linear-gradient(#1e40af, #6b21a8);]{x0000}$}
